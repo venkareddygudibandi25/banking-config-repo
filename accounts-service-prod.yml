@@ -1,5 +1,7 @@
 app:
   environment: PROD
+  service-name: Accounts Service
+
 
 message:
   text: Hello from PROD Environment
