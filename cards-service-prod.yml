@@ -1,0 +1,6 @@
+app:
+  service-name: Cards Service (Prod)
+  environment: Prod
+
+message:
+  text: Hello from Cards Prod Environment
