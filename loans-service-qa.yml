@@ -1,0 +1,6 @@
+app:
+  service-name: Loans Service (QA)
+  environment: QA
+
+message:
+  text: Hello from Loans QA Environment
