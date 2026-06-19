@@ -1,0 +1,5 @@
+app:
+  environment: PROD
+
+message:
+  text: Hello from PROD Environment
