@@ -1,0 +1,6 @@
+app:
+  service-name: Cards Service (Dev)
+  environment: dev
+
+message:
+  text: Hello from Cards Dev Environment
