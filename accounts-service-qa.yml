@@ -1,0 +1,5 @@
+app:
+  environment: QA
+
+message:
+  text: Hello from QA Environment
