@@ -1,5 +1,7 @@
 app:
   environment: DEV
+  service-name: Accounts Service
+
 
 message:
   text: Hello from DEV Environment
