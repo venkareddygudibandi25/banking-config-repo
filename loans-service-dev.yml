@@ -1,0 +1,6 @@
+app:
+  service-name: Loans Service (Dev)
+  environment: dev
+
+message:
+  text: Hello from Loans Dev Environment
