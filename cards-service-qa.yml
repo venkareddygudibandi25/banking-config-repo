@@ -1,0 +1,6 @@
+app:
+  service-name: Cards Service (QA)
+  environment: QA
+
+message:
+  text: Hello from Cards QA Environment
