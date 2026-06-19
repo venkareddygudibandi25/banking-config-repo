@@ -1,0 +1,6 @@
+app:
+  service-name: Loans Service (Prod)
+  environment: Prod
+
+message:
+  text: Hello from Loans Prod Environment
