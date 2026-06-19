@@ -1,7 +1,6 @@
 app:
-  environment: DEV
-  service-name: Accounts Service
-
+  service-name: Accounts Service (Dev)
+  environment: dev
 
 message:
-  text: Hello from DEV Environment
+  text: Hello from Dev Environment
