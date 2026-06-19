@@ -1,5 +1,7 @@
 app:
   environment: QA
+  service-name: Accounts Service
+
 
 message:
   text: Hello from QA Environment
