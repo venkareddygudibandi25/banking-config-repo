@@ -3,4 +3,4 @@ app:
   environment: dev
 
 message:
-  text: Hello from updated Dev Environment
+  text: Hello from Updated Dev Environment
